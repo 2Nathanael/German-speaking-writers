@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-        <mxGraphModel dx="810" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="818" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -381,12 +381,9 @@
                     <mxGeometry y="56" width="90" height="26" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bw8D9-mf-STMI-rw64IU-15" value="Geographic&#10;place type" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="530" y="198" width="110" height="140" as="geometry">
+                    <mxGeometry x="550" y="190" width="110" height="140" as="geometry">
                         <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds"/>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="Bw8D9-mf-STMI-rw64IU-16" value="name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Bw8D9-mf-STMI-rw64IU-15" vertex="1">
-                    <mxGeometry y="40" width="110" height="26" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bw8D9-mf-STMI-rw64IU-37" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.994;exitY=1.122;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Bw8D9-mf-STMI-rw64IU-15" source="Bw8D9-mf-STMI-rw64IU-17" target="Bw8D9-mf-STMI-rw64IU-15" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -413,6 +410,9 @@
                     <mxGeometry x="-0.8808" y="-1" relative="1" as="geometry">
                         <mxPoint x="-0.17999999999999972" y="-11" as="offset"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="Bw8D9-mf-STMI-rw64IU-16" value="name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Bw8D9-mf-STMI-rw64IU-15" vertex="1">
+                    <mxGeometry y="40" width="110" height="26" as="geometry"/>
                 </mxCell>
                 <mxCell id="Bw8D9-mf-STMI-rw64IU-17" value="definition" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="Bw8D9-mf-STMI-rw64IU-15" vertex="1">
                     <mxGeometry y="66" width="110" height="26" as="geometry"/>
