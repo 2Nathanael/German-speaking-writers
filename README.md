@@ -2,17 +2,25 @@
 Deutschsprachige Autoren
 The correlation between the Habitus and the predilection themes of German speaking writers according to Wikipedia
 
-The aim of this project is to study the correlation between the "habitus" of German-language writers according to the themes these writers have dealt with according to Wikipedia, i.e. to compare writers according to their themes. The problem to be addressed here is as follows: To what extent do writers who have written on a theme converge or diverge?
+The aim of this project is to study the correlation relationships between the biographical background of the German speaking writters and the topics they wrote about according to their Wikipedia pages. In this purpose, the research question is addressed as follows: Which correlation relationships can we observe between this background and the topics? This means: To what extend can we observe convergences between certain backgrounds - for example: the education type - and certain topics - for example: love - by a significant numer of German speaking writers?
 
-In this research, the "habitus" will be composed of the following 7 criterias, which are the objects:
+As example project for the use of Digital Methodology, the answer to these questions relies on two database. On the one hand a SQL database. In order to create this database, it will be necessary to define all the classes and proprieties which are relevant for the creation of the database, as well as the relationships between them. On the other hand, Wikidata will be queried by SPARQL queries. At the end of the projects, some results from Wikidata are imported into SQL. 
 
-Period
-Gender
-Socio-economical conditions of the family
-Marriage
-Places of activity
-Education
-Associative life
-The subjects would be the German speaking Writers figuring on the following Wikipedia list: https://en.wikipedia.org/wiki/List_of_German-language_authors as of 09.10.2023.
+*Table of contents*
 
-The classes would be the predilection themes of the writers, for example: Societal conditions, love, faith, nature.
+1. Methodology
+Presentation of the objects 
+Information catalogue
+2. Relationships between the objects 
+Concetualizing of the Objects 
+- The conceptual model
+- Explanations for the conceptual model
+Logical model
+3. The SQLite Database with 10 writers as example
+- 2 examples for SQLqueries
+- Example of visualisation of a query in a spreadsheet program
+4. SPRAQL queries
+- Examples of SPARQL queries
+- Example of resutlts for SPARQl queries
+5. Visualization of a SPARQL query aggregated by SQL
+
